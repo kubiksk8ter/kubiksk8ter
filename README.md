@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jakub Holeček
 - 👀 I’m interested in web aplication development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently working as front-end developer
 - 📫 You can reach me by my e-mail jakub.holecek31@gmail.com
-
